@@ -18,4 +18,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     val x = 1;
+    val y = 2;
 }
